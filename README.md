@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi there
 
 🎓 I am a Ph.D student at School of Mechanical Engineering, Beijing Institute of Technology, advised by Prof. Chao Sun.
 
