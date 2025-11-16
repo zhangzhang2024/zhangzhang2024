@@ -14,4 +14,3 @@
 
 📫 If you are interested in academic collaboration, feel free to reach me via zhangzhang00@bit.edu.cn — I’d love to connect 🤗!
 
-![Zhang Zhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhangzhang2024)
