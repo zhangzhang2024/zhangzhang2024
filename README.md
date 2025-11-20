@@ -8,9 +8,9 @@
 
 🤗 More specifically, my research interests include:
 
-- End-to-End Autonomous Driving with Vision-Language-Action-World Models
-
 - Spatial Reasoning with Vision-Language Models in Autonomous Driving
+
+- End-to-End Autonomous Driving with Vision-Language-Action-World Models
 
 📫 If you are interested in academic collaboration, feel free to reach me via zhangzhang00@bit.edu.cn — I’d love to connect 🤗!
 
