@@ -8,9 +8,7 @@
 
 🤗 More specifically, my research interests include:
 
-- Multi-modal Large Language Models in Autonomous Driving
-
-- Spatial Reasoning with Vision-Language Models in Autonomous Driving
+- Multi-modal Large Language Models and Spatial Reasoning in Autonomous Driving
 
 - End-to-End Autonomous Driving with Vision-Language-Action-World Models
 
