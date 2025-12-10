@@ -10,7 +10,7 @@
 
 - Multi-modal Large Language Models with Spatial Reasoning in Autonomous Driving
 
-- Reinforcement Learning Fine-Tuning for Autonomous Driving Large Models
+- Reinforcement Fine-Tuning for Autonomous Driving Large Models
 
 - End-to-End Autonomous Driving with Vision-Language-Action-World Models
 
