@@ -4,15 +4,15 @@
 
 🔥 My previous research focused on Roadside / Vehicle-side / Collaborative / Embodied 3D Perception, aiming to enhance agents’ spatial understanding of surrounding environment.
 
-✨ My currently research interests are in the **Spatial Intelligence** and **Autonomous Driving**.
+✨ My currently research interests are in the **Spatial Intelligence** and **End-to-End Autonomous Driving**.
 
 🤗 More specifically, my research interests include:
 
-- Multi-modal Large Language Models with Spatial Reasoning in Autonomous Driving
+- Spatial Reasoning Multi-modal Large Language Driving Models
 
 - Reinforcement Fine-Tuning for Autonomous Driving Large Models
 
-- End-to-End Autonomous Driving with Vision-Language-Action-World Models
+- Vision-Language-Action-World Models in End-to-End Autonomous Driving
 
 📫 If you are interested in academic collaboration, feel free to reach me via zhangzhang00@bit.edu.cn — I’d love to connect 🤗!
 
