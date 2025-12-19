@@ -8,11 +8,11 @@
 
 🤗 More specifically, my research interests include:
 
-- Spatial Reasoning in Multi-modal Large Autonomous Driving Models
+- Spatial Reasoning in Driving VLMs
 
-- Reinforcement Fine-Tuning for Autonomous Driving Large Models
+- Reinforcement Fine-Tuning in Driving VLAs
 
-- Vision-Language-Action-World Models in End-to-End Autonomous Driving
+- nd-to-End Driving World Models
 
 📫 If you are interested in academic collaboration, feel free to reach me via zhangzhang00@bit.edu.cn — I’d love to connect 🤗!
 
