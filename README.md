@@ -8,11 +8,11 @@
 
 🤗 More specifically, my research interests include:
 
-- Spatial Reasoning in Driving VLMs
+- Spatial Reasoning in VLMs
 
-- Reinforcement Fine-Tuning in Driving VLAs
+- Reinforcement Fine-Tuning in VLAs
 
-- nd-to-End Driving World Models
+- End-to-End World Models
 
 📫 If you are interested in academic collaboration, feel free to reach me via zhangzhang00@bit.edu.cn — I’d love to connect 🤗!
 
