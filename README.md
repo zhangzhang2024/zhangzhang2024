@@ -8,9 +8,9 @@
 
 🤗 More specifically, my research interests include:
 
-- Spatial Reasoning in VLMs
+- Spatial Reasoning
 
-- Reinforcement Fine-Tuning in VLAs
+- Reinforcement Fine-Tuning
 
 - End-to-End World Models
 
