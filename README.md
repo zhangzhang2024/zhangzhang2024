@@ -10,9 +10,9 @@
 
 - Spatial Reasoning
 
-- Reinforcement Fine-Tuning
+- Reinforcement Fine-Tuning 
 
-- End-to-End World Models
+- Vision-Language-Action-World Models
 
 📫 If you are interested in academic collaboration, feel free to reach me via zhangzhang00@bit.edu.cn — I’d love to connect 🤗!
 
