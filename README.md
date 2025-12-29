@@ -8,9 +8,9 @@
 
 🤗 More specifically, my research interests include:
 
-- Spatial Reasoning
+- Spatial Understanding and Reasoning
 
-- Reinforcement Fine-Tuning 
+- Reinforcement Learning and Fine-Tuning 
 
 - Vision-Language-Action-World Models
 
