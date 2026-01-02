@@ -4,7 +4,7 @@
 
 🔥 My previous research focused on Roadside / Vehicle-side / Collaborative / Embodied 3D Perception, aiming to enhance the cross-domain spatial understanding of heterogeneous agents.
 
-✨ My currently research interests are in the **Spatial Intelligence** and **End-to-End Autonomous Driving**.
+✨ My currently research interests are in the **End-to-End Autonomous Driving**.
 
 🤗 More specifically, my research interests include:
 
