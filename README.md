@@ -4,9 +4,9 @@ I am a Ph.D student at School of Mechanical Engineering, Beijing Institute of Te
 
 My previous research focused on Roadside / Vehicle-side / Collaborative / Embodied 3D Perception, aiming to enhance the cross-domain spatial understanding of heterogeneous agents.
 
-My currently research interests are in the **End-to-End Autonomous Driving**.
+My current research interests are in the **End-to-End Autonomous Driving**.
 
-More specifically, my research interests include:
+More specifically:
 
 - Bridging Perception to Action Space in Supervised Fine-Tuning
 
