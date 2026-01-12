@@ -14,7 +14,7 @@ More specifically:
 
 - Reinforcement Learning and Fine-Tuning in World Simulator
 
-- End-to-End Vision-Language-Action-World Models
+- Latent Vision-Language-Action-World Models
 
 If you are interested in academic collaboration, feel free to reach me via zhangzhang00@bit.edu.cn.
 
