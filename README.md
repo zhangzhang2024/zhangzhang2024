@@ -8,13 +8,11 @@ My current research interests are in the **Spatial Intelligence** and **VLA/Worl
 
 More specifically:
 
-- Embodied Panoramic Visual Question Answering
+- Representation Alignment in VLA Models
 
-- Bridging Perception to Action Space in Supervised Fine-Tuning
+- Reinforcement Learning in World Simulator
 
-- Reinforcement Learning and Fine-Tuning in World Simulator
-
-- Latent Vision-Language-Action-World Models
+- Latent Driving World Models
 
 If you are interested in academic collaboration, feel free to reach me via zhangzhang00@bit.edu.cn.
 
