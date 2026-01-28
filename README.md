@@ -1,18 +1,18 @@
 ## 👋 Hi there
 
-I am a Ph.D student at School of Mechanical Engineering, Beijing Institute of Technology, advised by Prof. Chao Sun.
+I am a Ph.D student at Beijing Institute of Technology, supervised by Prof. Chao Sun. I earned my bachelor’s degree from Beijing Institute of Technology in 2022.
 
-My previous research focused on Roadside / Vehicle-side / Collaborative / Embodied 3D Perception, aiming to enhance the cross-domain spatial understanding of heterogeneous agents.
+My previous research focused on roadside / vehicle-side / collaborative / embodied 3D perception, aiming to enhance agents’ spatial awareness for surrounding environment. I have been fortunate to collaborate with X-Humanoid.
 
-My current research interests are in the **Spatial Intelligence** and **VLA/World Models**.
+Currently my research interests lie in developing autonomous systems through spatial intelligence, generative models and reinforcement learning.
 
-More specifically:
+My research interests include:
 
-- Representation Alignment in VLA Models
+- Representation Learning and Spatial Alignment
 
-- Reinforcement Learning in World Simulator
+- Reinforcement Learning with World Simulator
 
-- Latent Driving World Models
+- VLA / VA / World Models in Autonomous System
 
 If you are interested in academic collaboration, feel free to reach me via zhangzhang00@bit.edu.cn.
 
