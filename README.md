@@ -16,5 +16,5 @@ My research interests include:
 
 - VLA/World Models in Autonomous System
 
-If you are interested in academic collaboration, feel free to reach me via zhangzhang00@bit.edu.cn.
+Feel free to reach me via zhangzhang00@bit.edu.cn.
 
