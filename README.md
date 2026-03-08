@@ -6,15 +6,5 @@ My previous research focused on roadside / vehicle-side / collaborative / embodi
 
 Currently my research interests lie in developing autonomous systems through spatial intelligence, generative models and reinforcement learning.
 
-My research interests include:
-
-- Spatial Representation Learning
-
-- RL with World Simulator
-
-- 4D Driving Video Generation Model
-
-- VLA/World Models in Autonomous System
-
 Feel free to reach me via zhangzhang00@bit.edu.cn.
 
